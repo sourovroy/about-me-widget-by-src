@@ -4,7 +4,7 @@ Donate link: https://github.com/sourovroy
 Tags: widget, widget shortcodes, text widget, image upload, image uploader widget
 Requires at least: 4.0
 Tested up to: 5.0.3
-Stable tag: trunk
+Stable tag: 1.3
 Requires PHP: 5.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -42,6 +42,9 @@ Nothing right now.
 2. Front-end in Twenty Seventeen
 
 == Changelog ==
+
+= 1.3 =
+* Button added below description
 
 = 1.2 =
 * Unexpected notices issue fixed

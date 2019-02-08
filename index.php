@@ -3,7 +3,7 @@
 Plugin Name: About Me Widget by SRC
 Plugin URI: https://wordpress.org/plugins/about-me-widget-by-src/
 Description: A widget that describe all about yourself.
-Version: 1.2
+Version: 1.3
 Author: Sourov Roy
 Author URI: https://github.com/sourovroy
 Text Domain: aboutwidget
@@ -43,7 +43,7 @@ add_action( 'init', 'myplugin_load_textdomain' );
 add_action( 'init', function() {
 
     if ( ! class_exists( 'AppSero\Client' ) ) {
-      require_once __DIR__ . '/appsero/src/load.php';
+        require_once __DIR__ . '/appsero/src/Client.php';
     }
 
     $client = new AppSero\Client(
