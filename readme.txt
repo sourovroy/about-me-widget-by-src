@@ -1,10 +1,10 @@
-=== Plugin Name ===
+=== About Me Widget - Name, Designation, Photo ===
 Contributors: sourovroy
 Donate link: https://github.com/sourovroy
 Tags: widget, widget shortcodes, text widget, image upload, image uploader widget
 Requires at least: 4.0
-Tested up to: 5.0.3
-Stable tag: 1.3
+Tested up to: 5.2.2
+Stable tag: 1.4.0
 Requires PHP: 5.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -19,7 +19,13 @@ You may use your own style in front-end.
 
 It is very lightweight plugin, and easy to use and customize your desire output.
 
-Just three steps:
+= FEATURES =
+* Name
+* Designation
+* Photo
+* Button
+
+= Just three steps =
 
 1. Install the plugin and activate it.
 2. Then go to Appearance -> Widgets
@@ -42,6 +48,10 @@ Nothing right now.
 2. Front-end in Twenty Seventeen
 
 == Changelog ==
+
+= 1.4.0 =
+* Add link to image
+* Refactor codes
 
 = 1.3 =
 * Button added below description
