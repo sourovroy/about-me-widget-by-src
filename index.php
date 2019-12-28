@@ -3,7 +3,7 @@
 Plugin Name: About Me Widget by SRC
 Plugin URI: https://wordpress.org/plugins/about-me-widget-by-src/
 Description: A widget that describe all about yourself.
-Version: 1.4.0
+Version: 1.4.1
 Author: Sourov Roy
 Author URI: https://github.com/sourovroy
 Text Domain: aboutwidget

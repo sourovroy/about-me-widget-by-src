@@ -3,8 +3,8 @@ Contributors: sourovroy
 Donate link: https://github.com/sourovroy
 Tags: widget, widget shortcodes, text widget, image upload, image uploader widget
 Requires at least: 4.0
-Tested up to: 5.2.2
-Stable tag: 1.4.0
+Tested up to: 5.3.2
+Stable tag: 1.4.1
 Requires PHP: 5.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
