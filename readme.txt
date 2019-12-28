@@ -31,6 +31,16 @@ It is very lightweight plugin, and easy to use and customize your desire output.
 2. Then go to Appearance -> Widgets
 3. Add the widget to a sidebar
 
+== Privacy Policy ==
+
+About Me Widget by SRC uses [Appsero](https://appsero.com) SDK to collect some telemetry data upon user's confirmation. This helps us to troubleshoot problems faster & make product improvements.
+
+Appsero SDK **does not gather any data by default.** The SDK only starts gathering basic telemetry data **when a user allows it via the admin notice**. We collect the data to ensure great user experience for all our users.
+
+Integrating Appsero SDK **DOES NOT IMMEDIATELY** start gathering data, **without confirmation from users in any case.**
+
+Learn more how [Appsero collects and uses this data](https://appsero.com/privacy-policy/).
+
 == Installation ==
 
 1. Upload the plugin files to the `/wp-content/plugins/about-me-widget-by-src.zip` directory, or install the plugin through the WordPress plugins screen directly.
